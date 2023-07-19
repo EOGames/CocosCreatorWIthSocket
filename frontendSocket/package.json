@@ -1,0 +1,10 @@
+{
+  "name": "SocketTestNew",
+  "uuid": "2b2fe924-3434-4f6e-9032-b89c92b8b3dc",
+  "creator": {
+    "version": "3.7.0"
+  },
+  "dependencies": {
+    "socket.io-client": "^4.7.1"
+  }
+}
